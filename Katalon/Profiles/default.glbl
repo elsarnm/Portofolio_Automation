@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'App/Calculator_v8.1.apk'</initValue>
+      <name>appPath</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'App/app-pendaki.apk'</initValue>
+      <name>appDaki</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'App/Shop-Samsung.apk'</initValue>
+      <name>appSam</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'App/Happy-Day-Shopping.apk'</initValue>
+      <name>appHap</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

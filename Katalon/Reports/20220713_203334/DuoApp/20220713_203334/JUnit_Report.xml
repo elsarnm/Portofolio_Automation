@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="DuoApp" time="81.425" tests="2" failures="0" errors="0">
+   <testsuite name="DuoApp" tests="2" failures="0" errors="0" time="81.425" skipped="0" timestamp="2022-07-13 20:33:50" hostname="queenels - localhost" id="Test Suites/DuoApp">
+      <properties>
+         <property name="deviceName" value="emulator-5554 (sdk_gphone64_x86_64 - Android 12)"/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/queenels/Katalon Studio/EduApp/Reports/20220713_203334/DuoApp/20220713_203334"/>
+         <property name="logFiles" value="/Users/queenels/Katalon Studio/EduApp/Reports/20220713_203334/DuoApp/20220713_203334/execution0.log, /Users/queenels/Katalon Studio/EduApp/Reports/20220713_203334/DuoApp/20220713_203334/appium.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="queenels - localhost"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="appiumServerStatus" value="{&quot;value&quot;:{&quot;build&quot;:{&quot;version&quot;:&quot;1.22.3&quot;}},&quot;sessionId&quot;:null,&quot;status&quot;:0}"/>
+         <property name="katalonVersion" value="8.4.0.208"/>
+         <property name="deviceOS" value="Android"/>
+         <property name="appiumVersion" value="1.22.3"/>
+         <property name="deviceModel" value="sdk_gphone64_x86_64"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="deviceManufacturer" value="Google"/>
+         <property name="deviceId" value="emulator-5554"/>
+         <property name="deviceName" value="emulator-5554 (sdk_gphone64_x86_64 - Android 12)"/>
+         <property name="deviceOSVersion" value="12"/>
+      </properties>
+      <testcase name="Test Cases/Calculator/Multiplication" time="30.874" classname="Test Cases/Calculator/Multiplication" status="PASSED">
+         <system-out><![CDATA[2022-07-13 20:33:50 - [TEST_CASE][PASSED] - Test Cases/Calculator/Multiplication: Test Cases/Calculator/Multiplication
+
+2022-07-13 20:33:51 - [TEST_STEP][PASSED] - startApplication(appPath, false): Started app at: '/Users/queenels/Katalon Studio/EduApp/App/Calculator_v8.1.apk'
+
+2022-07-13 20:33:52 - [MESSAGE][INFO] - Detected NodeJS location: "/usr/local/bin/node"
+
+2022-07-13 20:33:56 - [MESSAGE][INFO] - Appium server started on port 62,897
+
+2022-07-13 20:34:12 - [MESSAGE][PASSED] - Started app at: '/Users/queenels/Katalon Studio/EduApp/App/Calculator_v8.1.apk'
+
+2022-07-13 20:34:12 - [TEST_STEP][PASSED] - tap(findTestObject("MobileSpy/One.Button"), 0): Tapped on element 'Object Repository/MobileSpy/One.Button'
+
+2022-07-13 20:34:12 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-07-13 20:34:15 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/MobileSpy/One.Button'
+
+2022-07-13 20:34:15 - [TEST_STEP][PASSED] - tap(findTestObject("MobileSpy/Times.Button"), 0): Tapped on element 'Object Repository/MobileSpy/Times.Button'
+
+2022-07-13 20:34:15 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-07-13 20:34:16 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/MobileSpy/Times.Button'
+
+2022-07-13 20:34:16 - [TEST_STEP][PASSED] - tap(findTestObject("MobileSpy/Second.Button"), 0): Tapped on element 'Object Repository/MobileSpy/Second.Button'
+
+2022-07-13 20:34:16 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-07-13 20:34:17 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/MobileSpy/Second.Button'
+
+2022-07-13 20:34:17 - [TEST_STEP][PASSED] - tap(findTestObject("MobileSpy/Equals.Button"), 0): Tapped on element 'Object Repository/MobileSpy/Equals.Button'
+
+2022-07-13 20:34:17 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-07-13 20:34:19 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/MobileSpy/Equals.Button'
+
+2022-07-13 20:34:19 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("MobileSpy/Result.TextView"), 0): Element 'Object Repository/MobileSpy/Result.TextView' is visible
+
+2022-07-13 20:34:19 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-07-13 20:34:20 - [MESSAGE][PASSED] - Element 'Object Repository/MobileSpy/Result.TextView' is visible
+
+2022-07-13 20:34:20 - [TEST_STEP][PASSED] - closeApplication(): Close app successfully
+
+2022-07-13 20:34:21 - [MESSAGE][PASSED] - Close app successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/OpenDetail" time="49.988" classname="Test Cases/OpenDetail" status="PASSED">
+         <system-out><![CDATA[2022-07-13 20:34:21 - [TEST_CASE][PASSED] - Test Cases/OpenDetail: Test Cases/OpenDetail
+
+2022-07-13 20:34:22 - [TEST_STEP][PASSED] - startApplication("/Users/queenels/Katalon Studio/EduApp/App/app-pendaki.apk", true): Started app at: '/Users/queenels/Katalon Studio/EduApp/App/app-pendaki.apk'
+
+2022-07-13 20:34:23 - [MESSAGE][INFO] - Detected NodeJS location: "/usr/local/bin/node"
+
+2022-07-13 20:34:26 - [MESSAGE][INFO] - Appium server started on port 63,025
+
+2022-07-13 20:34:47 - [MESSAGE][PASSED] - Started app at: '/Users/queenels/Katalon Studio/EduApp/App/app-pendaki.apk'
+
+2022-07-13 20:34:47 - [TEST_STEP][PASSED] - delay(3, STOP_ON_FAILURE): Delayed 3 second(s)
+
+2022-07-13 20:34:50 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2022-07-13 20:34:50 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Mobile/ListPictureImageView"), 0): Tapped on element 'Object Repository/Mobile/ListPictureImageView'
+
+2022-07-13 20:34:50 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-07-13 20:34:51 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Mobile/ListPictureImageView'
+
+2022-07-13 20:34:51 - [TEST_STEP][PASSED] - scrollToText("Argopoera"): Scrolling to text 'Argopoera' successfully
+
+2022-07-13 20:35:06 - [MESSAGE][PASSED] - Scrolling to text 'Argopoera' successfully
+
+2022-07-13 20:35:06 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Mobile/BackImageButton"), 0): Tapped on element 'Object Repository/Mobile/BackImageButton'
+
+2022-07-13 20:35:06 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-07-13 20:35:06 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Mobile/BackImageButton'
+
+2022-07-13 20:35:06 - [TEST_STEP][PASSED] - delay(3, STOP_ON_FAILURE): Delayed 3 second(s)
+
+2022-07-13 20:35:09 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2022-07-13 20:35:09 - [TEST_STEP][PASSED] - closeApplication(): Close app successfully
+
+2022-07-13 20:35:11 - [MESSAGE][PASSED] - Close app successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-07-13 20:33:50 - [TEST_SUITE][PASSED] - DuoApp: Test Cases/OpenDetail]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

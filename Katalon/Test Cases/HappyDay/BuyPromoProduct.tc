@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BuyPromoProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa2cb9ba-05eb-42a5-9fa0-54fe8dbc3b32</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a4a82d21-22da-4834-bf04-cfdd96b45204</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>61a70989-5db6-4ed1-888a-3fd490987ecf</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'AMERAT'</defaultValue>
+      <description></description>
+      <id>a4a82d21-22da-4834-bf04-cfdd96b45204</id>
+      <masked>false</masked>
+      <name>label</name>
+   </variable>
+   <variable>
+      <defaultValue>'Facebook, Twitter'</defaultValue>
+      <description></description>
+      <id>61a70989-5db6-4ed1-888a-3fd490987ecf</id>
+      <masked>false</masked>
+      <name>label2</name>
+   </variable>
+</TestCaseEntity>
