@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_FIFGROUP MOBILE CUSTOMER</name>
+   <tag></tag>
+   <elementGuidId>4bd2730c-b28e-475e-90e0-eb3f2078e0ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarSupportedContent']/ul/li/div/a[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>75fbe02c-eb8e-4db3-b458-a951496abdd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>1b78aa1a-5862-4b4f-86bc-3b3eae765d27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.fifgroup.co.id/fifgroup-mobile-customer</value>
+      <webElementGuid>48c7062e-5f3b-4980-b846-d870833cdbdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FIFGROUP MOBILE CUSTOMER</value>
+      <webElementGuid>2e61b737-fd88-4781-b502-6a24e938b0f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarSupportedContent&quot;)/ul[@class=&quot;navbar-nav w-100 justify-content-end&quot;]/li[@class=&quot;nav-item dropdown show&quot;]/div[@class=&quot;dropdown-menu show&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>273b0953-9dcb-4467-98d0-d8898825285d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarSupportedContent']/ul/li/div/a[8]</value>
+      <webElementGuid>6e60b172-f6b6-4ea6-9add-23aceca53b13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'FIFGROUP MOBILE CUSTOMER')]</value>
+      <webElementGuid>498ea414-8c9e-4093-9c92-a4dc88b7f7cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FIFGROUP CARD'])[1]/following::a[1]</value>
+      <webElementGuid>25dfaf2a-ab4e-4739-ba48-02310d6cf947</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FLEET'])[1]/following::a[2]</value>
+      <webElementGuid>ef28e0da-92e6-43e0-af11-8c3e9d4f9fdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INFORMASI UMUM'])[1]/preceding::a[2]</value>
+      <webElementGuid>2f166fb2-eb36-4445-85cc-a916e9438d61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HUBUNGAN INVESTOR'])[1]/preceding::a[3]</value>
+      <webElementGuid>4260f237-8e8f-4ffc-b35b-9dd6b18301cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='FIFGROUP MOBILE CUSTOMER']/parent::*</value>
+      <webElementGuid>800007e9-e2f1-431c-8a15-eba657a4694e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.fifgroup.co.id/fifgroup-mobile-customer')]</value>
+      <webElementGuid>dd5a12f6-964c-45b6-98a5-05e56338f24a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[8]</value>
+      <webElementGuid>ce20ccea-9fe7-44e0-8678-e12107f2b18a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.fifgroup.co.id/fifgroup-mobile-customer' and (text() = 'FIFGROUP MOBILE CUSTOMER' or . = 'FIFGROUP MOBILE CUSTOMER')]</value>
+      <webElementGuid>ef79f47c-a1af-409f-a37f-a5133a1d96e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
